@@ -1,4 +1,9 @@
-# Phone-Repair-Shop
+# Phone-Repair-Shop 
+
+>Database name is "finalproje"
+>>Username: ahmetbozaci
+>>
+>>Password: 123456
 
 ![login](https://user-images.githubusercontent.com/82964908/188873801-339fd8b1-4aea-4882-b138-925d4a65d11d.jpg)
 ![anasayfa](https://user-images.githubusercontent.com/82964908/188873787-5d763678-2fdd-4871-b61d-d95380e7f633.png)
